@@ -1,0 +1,20 @@
+header {
+  background: rgb(254, 254, 254);
+  color: rgba(0, 0, 0, 0.92)
+}
+
+body{
+  font-family: 'Open Sans', sans-serif;
+  background: rgb(144, 57, 135)
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: normal;
+}
+h1{
+  font-size: 30px;
+  line-height: 34px;
+  letter-spacing: 1px;
+  text-transform: capitalize;
+}
